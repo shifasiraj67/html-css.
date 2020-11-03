@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+    text-align: left;
+}
+table ,th,tr,td {
+    border: 1px solid blue;
+    widows: 200px;
+    border-spacing: 5px;
+    padding: 5px;
+}
